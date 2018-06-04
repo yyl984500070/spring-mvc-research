@@ -6,7 +6,7 @@
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>spring-mvc-research Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <url>http://github.com/yyl984500070/spring-mvc-research</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
